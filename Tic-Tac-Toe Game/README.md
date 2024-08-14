@@ -1,14 +1,14 @@
-# Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
 This is a simple command-line Tic-Tac-Toe game made using Python code in Spyder. Two players, 'X' and 'O', will take turns to input their positions on the board using numbers 1-9. The game checks for valid inputs, updates the board, and determines if there is a winner or if the game ends in a tie. The game also provides an option to restart after it ends.
 
-## Table of Contents
+## 📋 Table of Contents
 1. [Game Board](#game-board)
 2. [How to Play](#how-to-play)
 3. [Functions Overview](#functions-overview)
 4. [Game Flow](#game-flow)
 
-## Game Board
+## 🕹 Game Board
 
 The Tic-Tac-Toe board is represented as follows:
 
@@ -22,7 +22,7 @@ The Tic-Tac-Toe board is represented as follows:
 
 Each number corresponds to a position on the board where a player can place their mark ('X' or 'O').
 
-## How to Play
+## 📖 How to Play
 
 1. Run the script to start the game.
 2. The board will be displayed, and Player 'X' will be prompted to enter a number corresponding to the desired position.
@@ -30,7 +30,7 @@ Each number corresponds to a position on the board where a player can place thei
 4. The game will continue until there's a winner or a tie.
 5. After the game ends, players will be prompted to restart or exit the game.
 
-## Functions Overview
+## 🔍 Functions Overview
 
 ### `markBoard(position, mark)`
 - Updates the game board with the player's mark ('X' or 'O') at the specified position.
@@ -52,7 +52,7 @@ Each number corresponds to a position on the board where a player can place thei
 ### `resetBoard()`
 - Resets the board to its initial empty state.
 
-## Game Flow
+## 🔄 Game Flow
 
 1. **Initialisation**:
    - The game starts by initialising the board and setting `currentTurnPlayer` to 'X'.
@@ -72,6 +72,6 @@ Each number corresponds to a position on the board where a player can place thei
 6. **End of Game**:
    - If a player wins or the game ends in a tie, the game prompts the players to either restart or exit.
 
-## License
+## 📄 License
 
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as you like.
