@@ -59,4 +59,4 @@ Finally, the project also includes a bootstrapping analysis, where 50, 500, 2000
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is open-source and available under the MIT License. Feel free to modify and distribute it as you like.
