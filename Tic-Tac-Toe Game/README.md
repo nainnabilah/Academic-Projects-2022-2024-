@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a simple command-line Tic-Tac-Toe game implemented in Python. Two players, 'X' and 'O', take turns to input their positions on the board using numbers 1-9. The game checks for valid inputs, updates the board, and determines if there is a winner or if the game ends in a tie. The game also provides an option to restart after it ends.
+This is a simple command-line Tic-Tac-Toe game implemented in Python. Two players, 'X' and 'O', will take turns to input their positions on the board using numbers 1-9. The game checks for valid inputs, updates the board, and determines if there is a winner or if the game ends in a tie. The game also provides an option to restart after it ends.
 
 ## Table of Contents
 1. [Game Board](#game-board)
@@ -55,8 +55,8 @@ Each number corresponds to a position on the board where a player can place thei
 
 ## Game Flow
 
-1. **Initialization**:
-   - The game starts by initializing the board and setting `currentTurnPlayer` to 'X'.
+1. **Initialisation**:
+   - The game starts by initialising the board and setting `currentTurnPlayer` to 'X'.
 
 2. **User Input**:
    - Players are prompted to input their desired position on the board. The input is validated for correctness.
