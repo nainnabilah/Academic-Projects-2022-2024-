@@ -7,7 +7,6 @@ This is a simple command-line Tic-Tac-Toe game implemented in Python. Two player
 2. [How to Play](#how-to-play)
 3. [Functions Overview](#functions-overview)
 4. [Game Flow](#game-flow)
-5. [Future Enhancements](#future-enhancements)
 
 ## Game Board
 
