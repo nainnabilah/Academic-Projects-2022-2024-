@@ -12,7 +12,7 @@ The project aims to explore, analyse, and visualise trends in global suicide rat
 
 1. [Dataset Overview](#dataset-overview)
 2. [Descriptive Analysis](#descriptive-analysis)
-3. [Data Visualization](#data-visualization)
+3. [Data Visualisation](#data-visualization)
 4. [Exploratory Data Analysis](#exploratory-data-analysis)
 5. [Statistical Tests](#statistical-tests)
 6. [Case Study](#case-study)
