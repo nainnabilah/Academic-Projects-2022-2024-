@@ -73,12 +73,6 @@ Each number corresponds to a position on the board where a player can place thei
 6. **End of Game**:
    - If a player wins or the game ends in a tie, the game prompts the players to either restart or exit.
 
-## Future Enhancements
-
-- **AI Player**: Implement an AI opponent that can play against the user.
-- **Graphical User Interface**: Develop a GUI version of the game for a more interactive experience.
-- **Score Tracking**: Keep track of scores across multiple games.
-
 ## License
 
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as you like.
