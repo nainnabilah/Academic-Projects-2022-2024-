@@ -72,6 +72,6 @@ Each number corresponds to a position on the board where a player can place thei
 6. **End of Game**:
    - If a player wins or the game ends in a tie, the game prompts the players to either restart or exit.
 
-## 📄 License
+## 📜 License
 
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as you like.
