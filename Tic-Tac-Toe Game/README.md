@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a simple command-line Tic-Tac-Toe game implemented in Python. Two players, 'X' and 'O', will take turns to input their positions on the board using numbers 1-9. The game checks for valid inputs, updates the board, and determines if there is a winner or if the game ends in a tie. The game also provides an option to restart after it ends.
+This is a simple command-line Tic-Tac-Toe game made using Python code in Spyder. Two players, 'X' and 'O', will take turns to input their positions on the board using numbers 1-9. The game checks for valid inputs, updates the board, and determines if there is a winner or if the game ends in a tie. The game also provides an option to restart after it ends.
 
 ## Table of Contents
 1. [Game Board](#game-board)
